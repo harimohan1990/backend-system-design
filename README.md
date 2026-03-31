@@ -182,7 +182,3 @@
 👉 Week 5–6: Scalability + Distributed Systems
 👉 Week 7–8: Real-world designs + Mock interviews
 
-
-
-👉 I’ll convert this into a **complete roadmap + daily tasks + projects (₹1Cr level skills)**
-👉 Or create **Notion tracker + GitHub repo template + real code**
